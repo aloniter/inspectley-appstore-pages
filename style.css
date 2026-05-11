@@ -78,8 +78,9 @@ nav {
   text-align: center;
 }
 .hero-icon {
-  width: 88px;
-  height: 88px;
+  width: 88px !important;
+  height: 88px !important;
+  max-width: 88px;
   border-radius: 22px;
   margin: 0 auto 28px;
   display: block;
